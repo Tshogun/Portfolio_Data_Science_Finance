@@ -1,0 +1,4 @@
+As the size of data set was much more than website limitation, please follow below link to see dataset:
+https://ourworldindata.org/covid-deaths
+
+I divided dataset to two wxcel file for this query
